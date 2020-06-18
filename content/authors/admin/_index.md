@@ -75,4 +75,4 @@ user_groups:
 I am a second-year Ph.D. student at [Télécom Paris](https://www.telecom-paris.fr/en/home) in the [S2A](https://www.telecom-paris.fr/en/research/laboratories/information-processing-and-communication-laboratory-ltci/research-teams/signal-statistics-learning) (Signal, Statistics and Learning) team co-advised by Prof. [Pascal Bianchi](https://bianchi.wp.imt.fr/) and
 Dr. [Walid Hachem](http://www-syscom.univ-mlv.fr/~whachem/). My research interests generally lie in optimization for machine learning. I am in particular studying adaptive gradient methods for non-convex and stochastic optimization.
 
-Previously, I obtained my MSc in Applied Mathematics and Computer Science from Télécom Paris in 2018. I also received my [MSc degree in Data Science](https://datascience-x-master-paris-saclay.fr/) from Université Paris Saclay in 2018. Here is my CV.
+Previously, I obtained my Master's degree in Applied Mathematics and Computer Science from Télécom Paris in 2018. I also received a [Master's degree in Data Science](https://datascience-x-master-paris-saclay.fr/) from Université Paris Saclay in 2018. Here is my CV.
