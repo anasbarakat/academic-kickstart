@@ -2,12 +2,12 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Convergence and Dynamical Behavior of the ADAM Algorithm for Non-Convex Stochastic Optimization"
-authors: [Anas Barakat, Pascal Bianchi]
-date: 2020-06-18T22:12:15+02:00
+authors: [A. B. , Pascal Bianchi]
+date: 2020-05-13 #T22:12:15+02:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-06-18T22:12:15+02:00
+publishDate: 2020-05-13 #T22:12:15+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

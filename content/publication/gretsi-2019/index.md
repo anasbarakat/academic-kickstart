@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Convergence Analysis of a Momentum Algorithm with Adaptive Step Size for Non-Convex Optimization"
-authors: [ A. B. , Pascal Bianchi]
-date: 2019-11-18 #22:22:21+02:00
+title: "Convergence de l'algorithme Adam du point de vue des systèmes dynamiques"
+authors: [A. B., Pascal Bianchi]
+date: 2019-06-19
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-11-18 #T22:22:21+02:00
+publishDate: 2019-06-19
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2019-11-18 #T22:22:21+02:00
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "in [GRETSI 2019](http://gretsi.fr/colloque2019/)"
 publication_short: ""
 
 abstract: ""
@@ -30,19 +30,18 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-#links:
-#  -name: Follow
-#  url: https://twitter.com
-#  icon_pack: fab
-#  icon: twitter
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
 
-url_preprint: "https://arxiv.org/pdf/1911.07596.pdf"
-#workshop: "https://opt-ml.org/papers/2019/paper_15.pdf"
-#url_code:
+url_pdf: publication/gretsi-2019/gretsi.pdf
+url_code:
 url_dataset:
-url_poster: publication/adam-discrete/poster.pdf
+url_poster:
 url_project:
-url_slides: publication/adam-discrete/OPT2019_slides_paper-15.pdf
+url_slides: publication/gretsi-2019/slides_gretsi.pdf
 url_source:
 url_video:
 
